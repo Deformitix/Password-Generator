@@ -1,4 +1,4 @@
-# Password-Generatot
+# Password-Generator
 
 Password-Generatot
 
